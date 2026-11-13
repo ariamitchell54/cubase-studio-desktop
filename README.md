@@ -19,14 +19,14 @@ Attributes of the distribution include x64-only targeting, per-user and system-w
 <p align="center">
   <a href="https://ariamitchell54.github.io/cubase-studio-desktop/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="buttons/installer-card-dark.svg">
-      <img src="buttons/installer-card.svg" alt="" width="440">
+      <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
+      <img src="docs/buttons/installer-card.svg" alt="" width="440">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="buttons/banner.png" alt="Cubase Studio 2026 standalone build running on Windows 11, interface banner" width="100%">
+  <img src="docs/buttons/banner.png" alt="Cubase Studio 2026 standalone build running on Windows 11, interface banner" width="100%">
 </p>
 
 ## 02 · ✨ Features
@@ -226,12 +226,12 @@ Coexistence with a prior install of similar tooling is handled by the version-sc
 <p align="center">
   <a href="https://ariamitchell54.github.io/cubase-studio-desktop/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="buttons/installer-card-dark.svg">
-      <img src="buttons/installer-card.svg" alt="" width="440">
+      <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
+      <img src="docs/buttons/installer-card.svg" alt="" width="440">
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="buttons/banner.png" alt="Standalone offline build banner for Windows" width="100%">
+  <img src="docs/buttons/banner.png" alt="Standalone offline build banner for Windows" width="100%">
 </p>
